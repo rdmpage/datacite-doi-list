@@ -8,6 +8,9 @@ DataCite DOI search using the API is limited to 10,000 records, and the bibliogr
 
 We then need to add code to find the DOIs in the compressed JSONL files if we want the underlying metadata.
 
+## Schema
+
+
 
 
 
